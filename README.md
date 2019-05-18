@@ -7,4 +7,3 @@ matrix:
       script:  
         - gcc -o Parking Parking.c 
         - ./Parking
-
